@@ -11,7 +11,7 @@ The aim of this project is to explore and analyze a dataset and perform differen
 The task consists of a multi class classification where we want to predict which category of crime was committed given several features, among which day of the week, month, year, description and so on. We have 878049 instances splitted in train (80%) and test (20%) sets. The total umber of features used is 6 and we have 39 different values for the target feature (category)
 
 <p align="center">
-  <img src="imgs/categories.png" height = 400 width = 600px>
+  <img src="imgs/categories.PNG" height = 400 width = 600px>
 </p>
 
 ### Models
